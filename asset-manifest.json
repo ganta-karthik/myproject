@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/myproject/static/js/main.305c59c7.js",
+    "static/media/hotel.svg": "/myproject/static/media/hotel.9b00f316e410a4583716b99eac3724dd.svg",
+    "static/media/restaurant.svg": "/myproject/static/media/restaurant.91cabb0b937fc647f90c8dce23191853.svg",
+    "static/media/attraction.svg": "/myproject/static/media/attraction.e926159d9587f36eb10ae3516405e843.svg",
+    "index.html": "/myproject/index.html",
+    "main.305c59c7.js.map": "/myproject/static/js/main.305c59c7.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.305c59c7.js"
+  ]
+}
